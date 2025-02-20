@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   background-color: aqua;
 }
-.container{
+.container {
   width: 1200px;
   background-color: pink;
 }
@@ -25,5 +25,40 @@ h4, h5,
 /* tidlsld249  */
 
 /* daechul7979  */
+h2 {
+  font-size: 16px;
+}
+strong {
+  font-size: 16px;
+}
+p {
+  font-size: 16px;
+}
+span {
+  font-size: 14px;
+}
+a {
+  font-size: 14px;
+}
+.container-area {
+  height: 600px;
+}
+.box {
+  height: 211px;
+}
+.box2 {
+  height: 108px;
+}
+.box3 {
+  height: 100px;
+}
+.img {
+  height: 20px;
+  width: 20px;
+}
+.img2 {
+  height: 35px;
+  width: 35px;
+}
 
 /* ksy10703  */
